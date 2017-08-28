@@ -1,3 +1,4 @@
 * Moustache = finite
 * White flags = regen for people
 * Electrostatic forces = regen for buildings / construction
+NO THIS DUMB
